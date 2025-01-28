@@ -1,6 +1,6 @@
 ---
 author: epidrome
-title: "World Wide Web"
+title: "World Wide Web www_2"
 image_url: /images/bci2.jpg
 caption: "(case-study www2) Όπως και ο επιτραπέζιος υπολογιστής"
 categories:
