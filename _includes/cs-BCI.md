@@ -8,21 +8,22 @@ These brain chips go over the scalp in a wearable device,
 get surgically placed under the scalp or even get implanted within brain tissue.  
 The idea is that, the closer the chip is to the brain’s neural network, the more clear,  
 or “high definition,” a signal can be interpreted.
-
+[^1]
 <figure id="fig:BCI3">
 {% include figure image_path="/images/bci3.jpg" caption="" alt="BCI image 3" %}
 <figcaption>
-This [^1] image shows a person wearing an EEG (Electroencephalography) cap used for brainwave recording and monitoring.  
+This image shows a person wearing an EEG (Electroencephalography) cap used for brainwave recording and monitoring.  
 These caps contain multiple electrodes to measure the electrical activity of the brain.  
 The data is being displayed on a computer screen, likely for research or diagnostic purposes.  
 This setup is common in neuroscience labs and medical facilities for studying brain activity,  
 conducting brain-computer interface (BCI) experiments, or diagnosing neurological conditions.
 </figcaption>
+[^2]
 </figure>
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption=""alt="BCI image 2" %}
 <figcaption>
-Only [^2] in the past 20 years has technology emerged that lets neuroscientists study interbrain synchrony.  
+Only in the past 20 years has technology emerged that lets neuroscientists study interbrain synchrony.  
 Hyperscanning uses functional near-infrared spectroscopy, worn on a swim-cap-like device,  
 to monitor the neural activity of multiple individuals engaging socially.
 </figcaption>
