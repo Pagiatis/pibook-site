@@ -7,8 +7,8 @@ which essentially lets a person turn their thoughts into actions.
 These brain chips go over the scalp in a wearable device,  
 get surgically placed under the scalp or even get implanted within brain tissue.  
 The idea is that, the closer the chip is to the brain’s neural network, the more clear,  
-or “high definition,” a signal can be interpreted.
-[^1]
+or “high definition,” a signal [^1] can be interpreted.
+
 <figure id="fig:BCI3">
 {% include figure image_path="/images/bci3.jpg" caption="" alt="BCI image 3" %}
 <figcaption>
