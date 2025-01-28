@@ -21,7 +21,8 @@ conducting brain-computer interface (BCI) experiments, or diagnosing neurologica
 </figcaption>
 </figure>
 <figure id="fig:BCI2">
-{% include figure image_path="/images/bci2.jpg" caption=""alt="BCI image 2" %}
+{% include figure image_path="/images/bci2.jpg" caption=""
+alt="BCI image 2" %}
 <figcaption>
 Only in the past 20 years has technology emerged that lets neuroscientists study interbrain synchrony.  
 Hyperscanning uses functional near-infrared spectroscopy, worn on a swim-cap-like device,  
