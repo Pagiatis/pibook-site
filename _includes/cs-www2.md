@@ -11,7 +11,7 @@
   
 </figure>
 <figure id="fig:amaya-web-editor">
-{% include figure image_path="/images/amaya-web-editor.jpg" caption="" alt="Επεξεργασία ιστοσελίδων" %}
+{% include figure image_path="/images/bci1.jpg" caption="" alt="Επεξεργασία ιστοσελίδων" %}
 <figcaption>
 (figcaption includes) Το σύστημα Amaya παρέχει ολοκληρωμένη πρόβαση στον παγκόσμιο ιστό, όχι
 εγγράφων για δημοσίευση.
