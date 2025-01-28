@@ -1,18 +1,16 @@
 ---
-author: pagiatis
-title: "Brain Computer Interface"
+author: epidrome
+title: "World Wide Web www_3"
 image_url: /images/bci2.jpg
-caption: "Brain-computer interfaces (BCI) are devices that create a direct communication pathway between a brain’s electrical activity and an external output. Their sensors capture electrophysiological signals transmitted between the brain’s neurons and relay that information to an external source, like a computer or a robotic limb, which essentially lets a person turn their thoughts into actions." 
+caption: "(case-study www2) Όπως και ο επιτραπέζιος υπολογιστής"
 categories:
-  - Έξυπνες διεπαφές Χρήστη
-  - Ευχρηστία
-  - Φορετός Υπολογισμός
-  - Συστήματα Εισόδου και Εξόδου
+  - Μελέτη Περίπτωσης
+  - Σύνθεση
 tags:
-  - Πληκτρολόγιο Ακόρντων
-  - Touch Develop
-  - Πληκτρολόγιο Ακόρντων
+  - WWW
+  - success
+  - Tim Berners Lee
 ---
 
-{% include cs-BCI.md %}
+{% include cs-www2.md %}
 
