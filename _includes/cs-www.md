@@ -3,9 +3,10 @@
 
 
 <figure id="fig:www">
-{% include figure image_path="/images/www.png" caption="" alt="Παγκόσμιος ιστός" %}
+{% include figure image_path="/images/bci2.jpg" caption="" alt="Παγκόσμιος ιστός" %}
 <figcaption>
 (figcaption includes) Οι πρώτες σελίδες του WWW είχαν στόχο να βελτιώσουν την ταχύτητα της
+/images/www.png
 </figcaption>
   
 </figure>
