@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "World Wide Web"
-image_url: /images/www.png
+image_url: /images/bci2.jpg
 caption: "(case-study) Όπως και ο επιτραπέζιος υπολογιστής"
 categories:
   - Μελέτη Περίπτωσης
