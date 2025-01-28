@@ -10,7 +10,8 @@ The idea is that, the closer the chip is to the brain’s neural network, the mo
 or “high definition,” a signal can be interpreted.
 
 <figure id="fig:BCI3">
-{% include figure image_path="/images/bci3.jpg" caption="" alt="BCI image 3" %}
+{% include figure image_path="/images/bci3.jpg" caption="" 
+alt="BCI image 3" %}
 <figcaption>
 This image shows a person wearing an EEG (Electroencephalography) cap used for brainwave recording and monitoring.  
 These caps contain multiple electrodes to measure the electrical activity of the brain.  
