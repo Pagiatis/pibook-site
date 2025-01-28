@@ -1,11 +1,11 @@
-(_includes) Η κατασκευή του συστήματος World Wide Web (WWW) και, κυρίως, η πολύ
+(_includes v2) Η κατασκευή του συστήματος World Wide Web (WWW) και, κυρίως, η πολύ
 γρήγορη αποδοχή του από ένα μεγάλο εύρος χρηστών ήταν μια εξέλιξη
 
 
 <figure id="fig:www">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="Παγκόσμιος ιστός" %}
 <figcaption>
-(figcaption includes) Οι πρώτες σελίδες του WWW είχαν στόχο να βελτιώσουν την ταχύτητα της
+(figcaption includes v2) Οι πρώτες σελίδες του WWW είχαν στόχο να βελτιώσουν την ταχύτητα της
 /images/www.png
 </figcaption>
   
