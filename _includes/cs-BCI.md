@@ -9,7 +9,7 @@ get surgically placed under the scalp or even get implanted within brain tissue.
 The idea is that, the closer the chip is to the brain’s neural network, the more clear,  
 or “high definition,” a signal can be interpreted.  
 
-BCI[^1] image (1)
+BCI[^1] image V2 (1)
 <figure id="fig:BCI3">
 {% include figure image_path="/images/bci3.jpg" caption="" alt="BCI_image_3" %}
 <figcaption>
@@ -21,7 +21,7 @@ conducting brain-computer interface (BCI) experiments, or diagnosing neurologica
 </figcaption>
 </figure>
 
-BCI[^2] image (2)
+BCI[^2] image V2 (2)
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
 <figcaption>
