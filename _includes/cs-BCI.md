@@ -7,7 +7,8 @@ which essentially lets a person turn their thoughts into actions.
 These brain chips go over the scalp in a wearable device,  
 get surgically placed under the scalp or even get implanted within brain tissue.  
 The idea is that, the closer the chip is to the brain’s neural network, the more clear,  
-or “high definition,” a signal can be interpreted.
+or “high definition,” a signal can be interpreted.  
+
 BCI 1[^1] image
 <figure id="fig:BCI3">
 {% include figure image_path="/images/bci3.jpg" caption="" alt="BCI_image_3" %}
@@ -19,6 +20,7 @@ This setup is common in neuroscience labs and medical facilities for studying br
 conducting brain-computer interface (BCI) experiments, or diagnosing neurological conditions.
 </figcaption>
 </figure>
+
 BCI 2[^2] image
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
@@ -49,6 +51,6 @@ they need to be comfortable, intuitive and reliable enough that people can use t
 Excitement around the possibilities of BCI has resulted in a thriving market, which is expected to triple in size from  
 $2 billion in 2023 to $6.2 billion by the end of the decade.
 
-[^1]: fig. **¿fig:BCI3?**
+[^1]: fig. **BCI_1_image**
 
-[^2]: fig. **¿fig:BCI2?**
+[^2]: fig. **BCI_2_image**
