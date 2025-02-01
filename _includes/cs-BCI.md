@@ -19,7 +19,7 @@ This setup is common in neuroscience labs and medical facilities for studying br
 conducting brain-computer interface (BCI) experiments, or diagnosing neurological conditions.
 </figcaption>
 </figure>
-
+[^2]
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
 <figcaption>
@@ -29,7 +29,7 @@ to monitor the neural activity of multiple individuals engaging socially.
 </figcaption>
 </figure>
 
-What Is[^2] a Brain-Computer Interface
+What Is a Brain-Computer Interface
 
 Brain-computer interfaces are devices that process brain activity and send signals to external software,  
 allowing a user to control devices with their thoughts.
