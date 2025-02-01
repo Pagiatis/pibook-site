@@ -7,8 +7,8 @@ which essentially lets a person turn their thoughts into actions.
 These brain chips go over the scalp in a wearable device,  
 get surgically placed under the scalp or even get implanted within brain tissue.  
 The idea is that, the closer the chip is to the brain’s neural network, the more clear,  
-or “high definition,” a signal[^1] can be interpreted.
-
+or “high definition,” a signal can be interpreted.
+BCI 1[^1] image
 <figure id="fig:BCI3">
 {% include figure image_path="/images/bci3.jpg" caption="" alt="BCI_image_3" %}
 <figcaption>
@@ -18,7 +18,7 @@ The data is being displayed on a computer screen, likely for research or diagnos
 This setup is common in neuroscience labs and medical facilities for studying brain activity,  
 conducting brain-computer interface (BCI) experiments, or diagnosing neurological conditions.
 </figcaption>
-[^2]
+BCI 2[^2] image
 </figure>
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
