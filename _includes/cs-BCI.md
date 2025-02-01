@@ -18,8 +18,8 @@ The data is being displayed on a computer screen, likely for research or diagnos
 This setup is common in neuroscience labs and medical facilities for studying brain activity,  
 conducting brain-computer interface (BCI) experiments, or diagnosing neurological conditions.
 </figcaption>
-  BCI 2[^2] image
 </figure>
+BCI 2[^2] image
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
 <figcaption>
