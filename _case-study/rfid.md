@@ -1,7 +1,7 @@
 ---
 author: TASOS
 title: "RFID"
-image_url: /images/rfid_thump.jpg
+image_url: /images/rfid.jpg
 caption: "RFID"
 categories:
   - Μελέτη Περίπτωσης
