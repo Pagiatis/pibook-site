@@ -15,6 +15,10 @@ This setup is common in neuroscience labs and medical facilities for studying br
 </figcaption>
 </figure>
 
+test.....
+123
+456
+
 **BCI[^2] image (2)**
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
