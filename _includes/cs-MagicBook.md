@@ -1,4 +1,4 @@
-**Όλα τα παρακάτω αντλήθηκαν από το άρθρο**
+**Πηγή αναφοράς**  
 [The MagicBook: A Transitional AR Interface](https://www.hitl.washington.edu/people/tfurness/courses/inde543/READINGS-03/BILLINGHURST/MagicBook.pdf)
 
 Το MagicBook είναι μια διεπαφή MR που χρησιμοποιεί ένα πραγματικό βιβλίο (εικόνα a) για να μεταφέρει απρόσκοπτα τους χρήστες μεταξύ Πραγματικότητας
