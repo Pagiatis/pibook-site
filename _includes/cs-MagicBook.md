@@ -79,5 +79,5 @@
 Το MagicBook πιστεύω πως έδωσε μια πρώτη εικόνα προς αυτήν την κατεύθυνση το μακρινό 2001 που πρωτοεμφανίστηκε και φυσικά για την εποχή του ήταν μια πολύ πρωτοποριακή ιδέα.
 
 [^1]: **Reality, Augmented Reality and Virtual Reality of MagicBook**
-[^2]: **Avatar of Virtual Reality**
+[^2]: **Avatar of Virtual Reality from MagicBook**
 [^3]: **Extended Reality**
