@@ -10,7 +10,7 @@
 <figure id="fig:BCI3">
 {% include figure image_path="/images/bci3.jpg" caption="" alt="BCI_image_3" %}
 <figcaption>
-Η παραπάνω εικόνα παρουσιάζει τις τρείς λειτουργίες του MagicBook για μετακίνηση μεταξύ πραγματικότητας, επαυξημένης πραγματικότητας και εικονικής πραγματικότητας. 
+Η παραπάνω εικόνα παρουσιάζει τις τρείς μεταβάσεις του MagicBook μεταξύ πραγματικότητας, επαυξημένης πραγματικότητας και εικονικής πραγματικότητας. 
 </figcaption>
 </figure>   
 
@@ -40,7 +40,7 @@
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
 <figcaption>
-Φαίνεται η μετάβαση και η διάδραση με τον εικονικό κόσμο (VR).
+Εδώ φαίνεται η μετάβαση και η διάδραση με τον εικονικό κόσμο (VR).
 </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
 <figcaption>
-Το XR ή Extended Reality είναι ένας όρος ο οποίος περιλαμβάνει τις τρείς τεχνολογίες VR, AR και MR, Συνεπώς όταν αναφερόμαστε σε κάποιο σύνολο αυτών χρησιμοποιείται το XR (δηλ. είναι σαν όρος ομπρέλα) 
+Το **XR ή Extended Reality** είναι ένας όρος ο οποίος περιλαμβάνει τις τρείς τεχνολογίες VR, AR και MR, Συνεπώς όταν αναφερόμαστε σε κάποιο σύνολο αυτών χρησιμοποιείται το XR (δηλ. είναι σαν όρος ομπρέλα) 
 </figcaption>
 </figure>
 
